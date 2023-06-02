@@ -26,7 +26,7 @@ To run this app, you need to have the following:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/scgursel/Swift-WorkoutGame-Progra.git
+   git clone https://github.com/scgursel/Swift-WorkoutGame-Programmatic.git
    
 2. Open the project in Xcode.
 
